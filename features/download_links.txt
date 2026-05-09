@@ -1,0 +1,9 @@
+Due to GitHub's file size limit (100MB) and the large matrix dimensions of the Deep Learning feature vectors, Group 08 has securely hosted the extracted feature files (.npy) on Google Drive for your convenience.
+
+Google Drive Link to the features directory: 
+https://drive.google.com/drive/folders/1QMN-xtMAlDcAy1CLYADxlN4Q5jZNHv0O?usp=sharing
+
+The provided link contains the following files:
+1. X_resnet.npy and y_resnet.npy (ResNet-50 Features)
+2. X_mobilenet.npy and y_mobilenet.npy (MobileNetV2 Features)
+3. X_sift_bovw.npy, X_hog.npy, etc. (Traditional Features)
