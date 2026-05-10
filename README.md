@@ -26,7 +26,7 @@ The project is organized following software engineering standards:
 * `notebooks/`: Contains the main Google Colab Notebook (`ML_Group8.ipynb`) to execute the entire experimental pipeline from EDA to evaluation.
 * `modules/`: Directory for auxiliary Python scripts. *(Note: To ensure independent and seamless execution during a single "Run all" pass, all helper functions have currently been integrated directly into the Colab notebook).*
 * `features/`: Stores the extracted feature arrays in `.npy` format (e.g., `X_hog.npy`, `X_mobilenet.npy`).
-* `reports/`: Contains the final PDF project report (`main.pdf`).
+* `reports/`: Contains the final PDF project report (`CC01_Group8.pdf`).
 
 ## How to Run the Notebook
 To ensure the notebook runs successfully and automatically from start to finish, please follow these steps:
